@@ -87,4 +87,10 @@
       </plugins>
     </pluginManagement>
   </build>
+  <distributionManagement>
+    <repository>
+        <id>local-repo</id>
+        <url>file:////home/thom/Desktop/NewVolume/DEVOPS/Jenkins/MVN-DEPLOY</url>
+    </repository>
+</distributionManagement>
 </project>
